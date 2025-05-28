@@ -1,13 +1,14 @@
 # MiniProject
- Image-Based Detection of Quality of Fruits and Vegetables Using AI.
-.Developed an AI-driven system using computer vision techniques.
+Image-Based Detection of Quality of Fruits and Vegetables Using AI.
 
-.Utilized YOLOv8 and YOLOv5 computer vision models for real-time classification.
+Developed an AI-driven system using computer vision techniques.
 
-.The system detects healthy and rotten fruits and vegetables.
+Utilized YOLOv8 and YOLOv5 computer vision models for real-time classification.
 
-.Automated the quality assurance process to reduce human error.
+The system detects healthy and rotten fruits and vegetables.
 
-.Enhanced efficiency in the agricultural industry.
+Automated the quality assurance process to reduce human error.
 
-.Utilized the system to assist in winemaking processes based on the percentage of rotten produce.
+Enhanced efficiency in the agricultural industry.
+
+Utilized the system to assist in winemaking processes based on the percentage of rotten produce.
