@@ -1,0 +1,10 @@
+path: "C:/Users/Acer/Downloads/Final"  # Base path
+train: Train/images
+val: Val/images
+test: Test/images
+
+nc: 2  # Only 2 classes
+
+names:
+  0: Healthy
+  1: Rotten
