@@ -1,5 +1,5 @@
 # MiniProject
-Image-Based Detection of Quality of Fruits and Vegetables Using AI.
+MiniProject: Image-Based Detection of Quality of Fruits and Vegetables Using AI.
 
 Developed an AI-driven system using computer vision techniques.
 
